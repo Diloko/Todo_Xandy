@@ -1,0 +1,10 @@
+CREATE USER todo
+WITH PASSWORD 'todo123';
+
+ALTER USER todo CREATEDB;
+
+CREATE DATABASE todo_db
+OWNER todo;
+
+CREATE DATABASE todo_test
+OWNER todo;

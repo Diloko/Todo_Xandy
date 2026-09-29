@@ -1,0 +1,5 @@
+com\diogo\todo\TodoApiApplication.class
+com\diogo\todo\model\entity\Tarefa.class
+com\diogo\todo\controller\TarefaController.class
+com\diogo\todo\repository\TarefaRepository.class
+com\diogo\todo\service\TarefaService.class
